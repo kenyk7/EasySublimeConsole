@@ -1,3 +1,4 @@
 [
-    { "caption": "Git Bash Here", "command": "git_bash", "args": { "dirs": []} }
+    { "caption": "Git Bash Here", "command": "git_bash", "args": { "dirs": []} },
+    { "caption": "Open Containing Folder", "command": "open_folder", "args": { "dirs": []} }
 ]
